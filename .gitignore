@@ -1,0 +1,2 @@
+# add all the .pyc files to gitignore
+*.pyc
